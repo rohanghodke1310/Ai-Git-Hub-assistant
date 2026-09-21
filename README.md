@@ -18,3 +18,6 @@ GitHub → EC2 → AI → GitHub PR Comment
 - Red Hat Enterprise Linux
 - Python
 - AI
+
+## AI Review
+This project will automatically review pull requests using AI.
